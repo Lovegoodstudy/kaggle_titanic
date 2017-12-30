@@ -2,7 +2,11 @@
 
 ---
 
-[TOC]
+* [泰坦尼克号乘客分析简介](https://github.com/Lovegoodstudy/kaggle_titanic#泰坦尼克号乘客分析简介)
+* [项目准备](https://github.com/Lovegoodstudy/kaggle_titanic#项目准备)
+* [使用 russell-cli 命令行工具登录 RussellCloud](https://github.com/Lovegoodstudy/kaggle_titanic#使用russell-cli命令行工具登录RussellCloud)
+* [数据集准备](https://github.com/Lovegoodstudy/kaggle_titanic#数据集准备)
+* [初始化和上传并启动项目](https://github.com/Lovegoodstudy/kaggle_titanic#初始化和上传并启动项目)
 
 ---
 
@@ -33,7 +37,7 @@ $ git clone https://github.com/Lovegoodstudy/titanic.git
 ```
 
 
-### 使用 russell-cli 命令行工具登录 RussellCloud
+### 使用russell-cli命令行工具登录RussellCloud
 
 ```bash
 
